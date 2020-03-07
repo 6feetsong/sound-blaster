@@ -1,0 +1,7 @@
+{
+  "name": "Sound Blaster",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
